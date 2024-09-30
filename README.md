@@ -16,4 +16,4 @@ Projek ini merupakan aplikasi untuk memecah uang menjadi beberapa koin
 
 
 ## Link Penting
-- **Demo Video**: [Klik di sini untuk melihat video demo]( https://youtu.be/zTF5Of-KvuU)
+- **Demo Video**: [Klik di sini untuk melihat video demo]( https://youtu.be/xeRVi8Arkho)
