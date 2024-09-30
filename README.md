@@ -10,7 +10,7 @@ Projek ini merupakan aplikasi untuk memecah uang menjadi beberapa koin
 - **Python**
 
 ## Panduan Penggunaan
-1. Buka file `ConChange.py` pada IDE yang anda gunakan
+1. Buka file `CoinChange.py` pada IDE yang anda gunakan
 2. Run program
 3. Masukkan jumlah uang yang ingin dikonversikan ke bentuk koin
 
